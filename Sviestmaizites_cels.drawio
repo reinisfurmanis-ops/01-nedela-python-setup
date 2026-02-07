@@ -1,0 +1,286 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
+  <diagram name="Page-1" id="NN5sZLgBJNgGijGwjhsc">
+    <mxGraphModel dx="2940" dy="1629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-1" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nomazgā rokas" vertex="1">
+          <mxGeometry height="40" width="120" x="693.75" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-3" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="873.75" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Paņem dēlīti" vertex="1">
+          <mxGeometry height="40" width="120" x="698.75" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Paņem maizi" vertex="1">
+          <mxGeometry height="40" width="125" x="857.5" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-6" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="cHE3NBAxG7uOu0wxZB_4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="JĀ" vertex="1">
+          <mxGeometry height="40" width="40" x="813.75" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-8" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="913.75" y="790" />
+              <mxPoint x="993.75" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NĒ" vertex="1">
+          <mxGeometry height="40" width="40" x="893.75" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-10" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Noslauki rokas dvielī" vertex="1">
+          <mxGeometry height="40" width="120" x="693.75" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-12" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Atver leduskapi un izņem sieru un maizi" vertex="1">
+          <mxGeometry height="40" width="120" x="693.75" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nomazgā dēlīti" vertex="1">
+          <mxGeometry height="40" width="120" x="933.75" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-15" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-5" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" target="cHE3NBAxG7uOu0wxZB_4-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="807.04" y="1299" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-16" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sagriez Maizi" vertex="1">
+          <mxGeometry height="40" width="120" x="857.5" y="1480" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-18" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-19" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="753.75" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Izņem no leduskapja sviestu" vertex="1">
+          <mxGeometry height="40" width="115" x="698.75" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-20" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-21" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cHE3NBAxG7uOu0wxZB_4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jā" vertex="1">
+          <mxGeometry height="40" width="40" x="693.75" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-22" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nē" vertex="1">
+          <mxGeometry height="40" width="40" x="773.75" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-24" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="713.75" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-25" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="793.75" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-26" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Noliec siltā vietā, lai atkūst" vertex="1">
+          <mxGeometry height="40" width="90" x="953.75" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-28" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Sagriez Sieru" vertex="1">
+          <mxGeometry height="40" width="120" x="933.75" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-30" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uzsmērē uz maizes sviestu" vertex="1">
+          <mxGeometry height="40" width="130" x="863.75" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-32" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Uzliec sieru uz maizes" vertex="1">
+          <mxGeometry height="40" width="117.5" x="870" y="1960" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-34" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Apēd sviestmaizi" vertex="1">
+          <mxGeometry height="40" width="117.5" x="870" y="2040" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nomazgā dēlīti un nazīti." vertex="1">
+          <mxGeometry height="40" width="117.5" x="870" y="2120" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ieliec leduskapī sieru un maizi" vertex="1">
+          <mxGeometry height="40" width="120" x="867.5" y="2200" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-38" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Vai sviests ir atkusis?" vertex="1">
+          <mxGeometry height="50" width="130" x="690" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-39" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-40" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-41" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Izmanotšu rīvi" vertex="1">
+          <mxGeometry height="40" width="110" x="923.75" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jā" vertex="1">
+          <mxGeometry height="40" width="40" x="933.75" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-43" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nē" vertex="1">
+          <mxGeometry height="40" width="40" x="1013.75" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-45" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="cHE3NBAxG7uOu0wxZB_4-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="953.75" y="540" />
+              <mxPoint x="812.75" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-46" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-47" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-48" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Maize ir sagriesta" vertex="1">
+          <mxGeometry height="50" width="120" x="860" y="1290" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-49" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="803.75" y="1400" />
+              <mxPoint x="803.75" y="1590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="JĀ" vertex="1">
+          <mxGeometry height="40" width="40" x="853.75" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-51" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-52" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NĒ" vertex="1">
+          <mxGeometry height="40" width="40" x="933.75" y="1380" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-53" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-54" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-55" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="915.1029411764707" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-56" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Siers ir sagriests" vertex="1">
+          <mxGeometry height="50" width="120" x="855" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-57" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cHE3NBAxG7uOu0wxZB_4-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NĒ" vertex="1">
+          <mxGeometry height="40" width="40" x="935" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-59" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="JĀ" vertex="1">
+          <mxGeometry height="40" width="40" x="853.75" y="1730" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-61" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-62" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-63" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Dēlitis nomazgāts?" vertex="1">
+          <mxGeometry height="50" width="130" x="808.75" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-64" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="875" y="930" />
+              <mxPoint x="875" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-65" parent="1" style="whiteSpace=wrap;html=1;" value="Paņem nazi" vertex="1">
+          <mxGeometry height="40" width="120" x="820" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-66" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-67" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-68" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Nazis nomazgāts?" vertex="1">
+          <mxGeometry height="50" width="130" x="810" y="965" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-69" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="833.75" y="1150" />
+              <mxPoint x="813.75" y="1150" />
+              <mxPoint x="813.75" y="1220" />
+            </Array>
+            <mxPoint x="853.75" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="JĀ" vertex="1">
+          <mxGeometry height="40" width="40" x="820" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-71" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="NĒ" vertex="1">
+          <mxGeometry height="40" width="40" x="900" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-73" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.004;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" target="cHE3NBAxG7uOu0wxZB_4-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-74" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cHE3NBAxG7uOu0wxZB_4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Nomazgā nazi" vertex="1">
+          <mxGeometry height="40" width="120" x="860" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Paņem sieru" vertex="1">
+          <mxGeometry height="40" width="120" x="857.5" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-77" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.521;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" target="cHE3NBAxG7uOu0wxZB_4-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-78" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" target="cHE3NBAxG7uOu0wxZB_4-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cHE3NBAxG7uOu0wxZB_4-79" edge="1" parent="1" source="cHE3NBAxG7uOu0wxZB_4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.106;entryY=0.034;entryDx=0;entryDy=0;entryPerimeter=0;" target="cHE3NBAxG7uOu0wxZB_4-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
